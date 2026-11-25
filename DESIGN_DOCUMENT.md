@@ -1,12 +1,12 @@
 # Arena Defender - Custom Design Document
 
-## 🎨 Design Overview
+##  Design Overview
 
 A geometric, modern minimalist game with a woman protagonist fighting off bugs in a clean, neutral aesthetic with burgundy accents.
 
 ---
 
-## 🎯 Color Palette
+##  Color Palette
 
 ### Primary Palette (Neutral)
 - **Background**: `#F5F5F5` (Off-white/light gray)
@@ -26,7 +26,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 👩 Player Character Design
+##  Player Character Design
 
 ### Shape & Form
 - **Base**: Smooth curved circular/oval shape (head)
@@ -50,7 +50,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 🐛 Enemy Designs (Bug Theme)
+##  Enemy Designs (Bug Theme)
 
 ### Enemy Type 1: Fast Bug (4 Legs)
 - **Shape**: Oval body with 4 small legs
@@ -84,7 +84,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 💫 Projectiles
+##  Projectiles
 
 ### Design
 - **Shape**: Perfect circle
@@ -101,7 +101,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 🎁 Power-Up Designs
+##  Power-Up Designs
 
 ### Health Power-Up
 - **Shape**: Smooth glowing orb with plus symbol
@@ -129,7 +129,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 🎮 UI Design
+##  UI Design
 
 ### Font
 - **Font Family**: Modern sans-serif (Clean, minimalist)
@@ -159,7 +159,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 📐 Background & Environment
+##  Background & Environment
 
 ### Main Game Area
 - **Background Color**: `#F5F5F5` (off-white/light gray)
@@ -173,7 +173,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## ✨ Visual Effects
+##  Visual Effects
 
 ### Projectile Trails
 - Small circles fade behind each projectile
@@ -195,7 +195,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 🎨 Visual Hierarchy Summary
+##  Visual Hierarchy Summary
 
 1. **Player** (Highest Priority) - Light burgundy on neutral background
 2. **Enemies** - Gray/burgundy/dark colored bugs
@@ -206,7 +206,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 📏 Size Reference Chart
+##  Size Reference Chart
 
 | Element | Width | Height | Purpose |
 |---------|-------|--------|---------|
@@ -220,7 +220,7 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ---
 
-## 🎮 Game Feel
+##  Game Feel
 
 - **Aesthetic**: Modern, clean, professional
 - **Tone**: Geometric minimalism with organic touches
@@ -231,11 +231,11 @@ A geometric, modern minimalist game with a woman protagonist fighting off bugs i
 
 ## Implementation Notes
 
-✅ Colors are CSS/Game friendly (hex values provided)
-✅ All sizes are in pixels for easy implementation
-✅ Shapes are described geometrically for easy drawing
-✅ Effects are minimal to maintain clean look
-✅ Design works well at game resolution (1200x800)
+ Colors are CSS/Game friendly (hex values provided)
+ All sizes are in pixels for easy implementation
+ Shapes are described geometrically for easy drawing
+ Effects are minimal to maintain clean look
+ Design works well at game resolution (1200x800)
 
 ---
 

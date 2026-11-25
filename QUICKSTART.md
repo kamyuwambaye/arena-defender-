@@ -98,4 +98,4 @@ A: Check Input handling in Player.Update() method
 
 ---
 
-Enjoy your Arena Defender game! 🎮
+Enjoy your Arena Defender game! 
